@@ -57,6 +57,36 @@ jhipster app --blueprints multiple-human-readable-foreign-key-fields --help
 
 And looking for `(blueprint option: multiple-human-readable-foreign-key-fields)` like
 
+# Contributing
+
+We welcome contributions to improve and expand this blueprint! Here's how you can help:
+
+## Reporting Bugs
+
+- If you find a bug, please report it by opening an issue on our [GitHub Issues](https://github.com/amarpatel-xx/generator-jhipster-multiple-human-readable-foreign-key-fields/issues) page.
+- Please include the following information in your bug report:
+    - Steps to reproduce the bug.
+    - Expected behavior.
+    - Actual behavior.
+    - JHipster version, blueprint version, and other relevant environment details.
+
+## Suggesting Enhancements
+
+- If you have an idea for a new feature or an enhancement to an existing one, please open an issue on our [GitHub Issues](https://github.com/amarpatel-xx/generator-jhipster-multiple-human-readable-foreign-key-fields/issues) page.
+- Describe the feature or enhancement you're suggesting and why it would be beneficial.
+
+## Submitting Pull Requests
+
+- Fork the repository on GitHub.
+- Create a new branch for your changes.
+- Make your changes, ensuring you follow the existing coding style.
+- Write tests for any new functionality or bug fixes.
+- Ensure all tests pass.
+- Submit a pull request to the `main` branch of the repository.
+- Provide a clear description of your changes in the pull request.
+
+We appreciate your contributions to make this blueprint better!
+
 # Open Source Software - See the Code
 
 ☕️ Find the example code to run this blueprint/generator on GitHub:
